@@ -1,0 +1,9 @@
+{
+  "name": "makearray",
+  "description": "",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/jameskyburz/makearray.git"
+  },
+  "main": "index.js"
+}
