@@ -1,9 +1,15 @@
 {
   "name": "makearray",
-  "description": "",
-  "version": "0.0.0",
+  "description": "dom selector to array for ie8",
+  "version": "0.0.1",
   "repository": {
+    "type": "git",
     "url": "git://github.com/jameskyburz/makearray.git"
+  },
+  "keywords": ["dom", "ie8", "array"],
+  "author" : {
+    "name" : "James Kyburz",
+    "email" : "james.kyburz@gmail.com"
   },
   "main": "index.js"
 }
