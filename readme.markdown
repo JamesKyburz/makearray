@@ -1,5 +1,7 @@
 # This repository is no longer maintained.
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/makearray.svg)](https://greenkeeper.io/)
+
 # makearray
 
 why?
